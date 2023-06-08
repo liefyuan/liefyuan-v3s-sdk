@@ -1,0 +1,1 @@
+cmd_/home/liefyuan/Liefyuan/bingpi-v3s/drivers/key/key_irq.ko := arm-linux-gnueabihf-ld -r  -EL -T ./scripts/module-common.lds -T ./arch/arm/kernel/module.lds  --build-id  -o /home/liefyuan/Liefyuan/bingpi-v3s/drivers/key/key_irq.ko /home/liefyuan/Liefyuan/bingpi-v3s/drivers/key/key_irq.o /home/liefyuan/Liefyuan/bingpi-v3s/drivers/key/key_irq.mod.o ;  true
