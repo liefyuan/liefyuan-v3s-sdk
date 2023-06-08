@@ -6,3 +6,7 @@
 	path = buildroot
 	url = https://github.com/liefyuan/buildroot.git
 	branch = 2020.02.x
+[submodule "linux"]
+	path = linux
+	url = https://github.com/liefyuan/linux.git
+	branch = zero-5.2.y
