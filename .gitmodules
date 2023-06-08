@@ -2,3 +2,7 @@
 	path = u-boot
 	url = https://github.com/liefyuan/u-boot.git
 	branch = v3s-current
+[submodule "buildroot"]
+	path = buildroot
+	url = https://github.com/liefyuan/buildroot.git
+	branch = 2020.02.x
