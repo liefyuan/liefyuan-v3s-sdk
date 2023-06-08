@@ -1,0 +1,4 @@
+[submodule "u-boot"]
+	path = u-boot
+	url = https://github.com/liefyuan/u-boot.git
+	branch = v3s-current
